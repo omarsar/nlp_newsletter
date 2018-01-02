@@ -1,4 +1,4 @@
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/resources/nlp_cover.png)
 
 ### NLP Newsletter
 ---
@@ -7,7 +7,7 @@ The NLP Newsletter provides a weekly issue that curates the most important natur
 ### Subscribe
 ---
 Get your news right inside your favorite community - GitHub! To subscribe, just click on the Watch and Star buttons:
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/resources/nlp_newsletter.gif)
 
 ### Editors
 ---
