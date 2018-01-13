@@ -1,5 +1,6 @@
 # Issue 1 - NLP Legend dies, Facebook’s wav2letter, Tensorflow for Deep Learning Research …
 
+#### *Released Date: January 12, 2018*
 ----------
 
 **On People...**
@@ -33,7 +34,7 @@ An new course on Natural Language Processing with NLTK for beginners.
 Source: [NLP for Hackers](https://nlp.stanford.edu/seminar/)
 
 This paper dicusses how to obtain state-of-the-art results on a sentiment analysis task with simple Naive Bayes and Support Vector Machine variants.  
-Source: [Baselines and Bigrams: Simple, Good Sentiment and Topic Classification](http://Baselines and Bigrams: Simple, Good Sentiment and Topic Classification)
+Source: [Baselines and Bigrams: Simple, Good Sentiment and Topic Classification](https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf)
 
 3rd edition of “An introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition” by Daniel Jurafsky (Stanford University) and James H. Martin (University of Colorado at Boulder).  
 Source: [PDF](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
