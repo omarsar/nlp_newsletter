@@ -18,4 +18,4 @@ Want to become an editor? Reach me out directly on [Twitter](https://twitter.com
 
 ### Issues
 ---
-- Issue #1 (To be released) - *January 5, 2018*
+- Issue #1 [(NLP Legend dies, Facebook’s wav2letter, Tensorflow for Deep Learning Research …)](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue-1-NLP-Legend-dies-Facebooks-wav2letter-Tensorflow-for-Deep-Learning-Research.md) - *January 12, 2018*
