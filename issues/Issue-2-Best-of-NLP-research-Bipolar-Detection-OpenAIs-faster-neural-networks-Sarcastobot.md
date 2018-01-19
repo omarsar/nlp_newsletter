@@ -67,8 +67,9 @@ Source: [The Wild Week in AI](https://www.getrevue.co/profile/wildml/issues/the-
 NLP Newsletter by [Sebastian Ruder](https://twitter.com/seb_ruder).  
 Source: [NLP Newsletter Issue #14](http://newsletter.ruder.io/issues/nlp-news-2017-year-in-review-2018-prognoses-semi-supervised-learning-ctc-networks-random-forests-tutorials-super-human-squad-m-is-dead-advances-in-pre-training-word-embeddings-89246)
 
-
-
+----------
+*If you spot any errors or inaccuracies in this newsletter please open an issue.*  
+*Submit a pull request if you would like to add important NLP news here.*
 
 
 

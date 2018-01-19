@@ -19,4 +19,5 @@ Want to become an editor? Reach me out directly on [Twitter](https://twitter.com
 ### Issues
 ---
 - Issue #1 [(NLP Legend dies, Facebook’s wav2letter, Tensorflow for Deep Learning Research …)](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue-1-NLP-Legend-dies-Facebooks-wav2letter-Tensorflow-for-Deep-Learning-Research.md) - *January 12, 2018*
-- Issue #2 [(Draft)](https://paper.dropbox.com/doc/Issue-2-ctN4WfWeFhUQp5KH28ISY?_tk=share_copylink) - *January 19, 2018*
+- Issue #2 [Issue 2 - Best of NLP research, Bipolar Detection, OpenAI’s faster neural networks, Sarcastobot, …](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue-2-Best-of-NLP-research-Bipolar-Detection-OpenAIs-faster-neural-networks-Sarcastobot.md) - *January 19, 2018*
+- Issue #3 [(Draft)](https://paper.dropbox.com/doc/Issue-3-8tUU2fHd8q5yGmbgvPFVm?_tk=share_copylink) - *January 26, 2018*
