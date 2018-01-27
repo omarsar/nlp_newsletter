@@ -5,7 +5,8 @@ Development on a chatbot that can better understand emotions from conversation -
 **On Code and Data…**  
 Popular deep learning library PyTorch celebrates its 1st anniversary and shares the year of remarkable growth and community response - [Link](http://pytorch.org/2018/01/19/a-year-in.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI)
 
-Detectron - Facebook’s state-of-the-art objection detection - [Link](https://t.co/WhI8gQEGav) 
+Detectron - Facebook’s state-of-the-art objection detection - [Link](https://t.co/WhI8gQEGav)  
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/detectron.png)
 
 **On Education and Research…**  
 A new course on deep learning goes open to the public, which include notes, links, and other resource - [Link](https://docs.google.com/document/d/1_p1Mw-NtMGN_vpas_pchLsQC2u0NM5mTnRapBrQ2ivk/edit)
@@ -23,7 +24,9 @@ Interesting guide released on using machine learning to solve 90% of NLP problem
 Discussion on the implications of Artificial Intelligence in our near future, and whether it will achieve intelligence far superior to human intelligence (Podcast) - [Link](https://soundcloud.com/omar-sar-364673637/ai-intelligence-vs-human-intelligence)
 
 **On Industry…**  
-Google Colab offers free access to GPUs on their online collaborative notebook service - [Link](https://colab.research.google.com/notebook) 
+Google Colab offers free access to GPUs on their online collaborative notebook service - [Link](https://colab.research.google.com/notebook)  
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/colab-gpu.gif)
+
 
 Google launches Cloud ML, which aims to bring AI services to businesses - [Link](https://www.blog.google/topics/google-cloud/cloud-automl-making-ai-accessible-every-business/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI)
 
@@ -33,6 +36,7 @@ Mastercard claims that conversational banking may already be mainstream - [Link]
 AAAI releases results for the first ever research track on AI Ethics and Society - [Link](http://www.aies-conference.com/program/)
 
 WordVector visualizer for 294 languages using FastText - [Link](http://ling.kakaobrain.com/wordweb)
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/word_embedding.gif)
 
 FakeApp is an application that allows the ability to generate fake porn through face-swapping algorithm powered by deep learning techniques - [Link](https://motherboard.vice.com/en_us/article/bjye8a/reddit-fake-porn-app-daisy-ridley)
 
