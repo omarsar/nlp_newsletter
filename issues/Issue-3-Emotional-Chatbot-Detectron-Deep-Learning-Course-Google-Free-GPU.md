@@ -3,13 +3,13 @@
 Development on a chatbot that can better understand emotions from conversation - [Link](https://www.theguardian.com/technology/2017/may/05/human-robot-interactions-take-step-forward-with-emotional-chatting-machine-chatbot?CMP=share_btn_tw)
 
 **On Code and Data…**  
-Popular deep learning library PyTorch celebrates its 1st anniversary and shares the year of remarkable growth and community response - [Link](http://pytorch.org/2018/01/19/a-year-in.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI)
+Popular deep learning library, PyTorch, celebrates its 1st anniversary and shares a year of remarkable growth and wide community adoption - [Link](http://pytorch.org/2018/01/19/a-year-in.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI)
 
 Detectron - Facebook’s state-of-the-art objection detection - [Link](https://t.co/WhI8gQEGav)  
 ![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/detectron.png)
 
 **On Education and Research…**  
-A new course on deep learning goes open to the public, which include notes, links, and other resource - [Link](https://docs.google.com/document/d/1_p1Mw-NtMGN_vpas_pchLsQC2u0NM5mTnRapBrQ2ivk/edit)
+A new course on deep learning goes open to the public, which includes notes, links, and other resources - [Link](https://docs.google.com/document/d/1_p1Mw-NtMGN_vpas_pchLsQC2u0NM5mTnRapBrQ2ivk/edit)
 
 A great paper summarizing the current research being done in sentiment analysis, specifically with the use of sentiment analysis - [Link](https://arxiv.org/abs/1801.07883?utm_content=buffer66b8a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
@@ -28,7 +28,7 @@ Google Colab offers free access to GPUs on their online collaborative notebook s
 ![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/colab-gpu.gif)
 
 
-Google launches Cloud ML, which aims to bring AI services to businesses - [Link](https://www.blog.google/topics/google-cloud/cloud-automl-making-ai-accessible-every-business/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI)
+Google launches Cloud ML, which aims to bring easy access to AI services to businesses - [Link](https://www.blog.google/topics/google-cloud/cloud-automl-making-ai-accessible-every-business/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI)
 
 Mastercard claims that conversational banking may already be mainstream - [Link](https://bankinnovation.net/2018/01/conversational-banking-may-already-be-mainstream-mastercard-says/)
 
