@@ -6,7 +6,7 @@ Debate among two leading researchers, [Gary Marcus](https://twitter.com/GaryMarc
 
 **On Code and Data…**  
 FAIR releases PyTorch implementation of “Poincaré Embeddings for Learning Hierarchical Representations” - [Link](https://github.com/facebookresearch/poincare-embeddings)  
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue4/wn-nouns.jpg)
 
 An interesting podcast discussing NLP highlights and the state-of-the-art techniques. In this episode, [Dan Roth](https://twitter.com/dannydanr) discusses strategies on how to deal with cases where data is lacking - [Link](https://soundcloud.com/nlp-highlights/48-incidental-supervision-moving-beyond-supervised-learning-with-dan-roth)
 
@@ -15,7 +15,7 @@ Tutorial on how to use Mechanical Turk for tagging your training datasets - [Lin
 Introducing the “Broad Twitter Corpus”, which is a dataset containing tweets collected over stratified times, places and social uses - [Link](https://github.com/GateNLP/broad_twitter_corpus)
 
 Beginner’s tutorial on how to train and visualize word vectors (embeddings) - [Link](https://towardsdatascience.com/training-and-visualising-word-vectors-2f946c6430f8)  
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue4/word2vec.gif)
 
 Tensorflow code used for Capsule model implemented in the paper “Dynamic Routing between Capsules” - [Link](https://github.com/Sarasra/models/tree/master/research/capsules)
 
@@ -25,7 +25,7 @@ Tensorflow code used for Capsule model implemented in the paper “Dynamic Routi
 Paper: “*Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs*” - [Link](https://arxiv.org/abs/1801.05453)
 
 Free online book release by [Jeremy Howard](https://twitter.com/jeremyphoward) discussing the fundamental maths you need for deep learning: “*The Matrix Calculus You Need For Deep Learning*” - [Link](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)  
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue4/chain-rule.png)
 
 Another beautiful online website for testing your regular expressions - [Link](https://regexper.com/)
 
@@ -45,8 +45,8 @@ NLP Chronicles #1: Interdisciplinary studies, ethics, communication, MOOCs, incl
 
 The “Deep Learning Weekly” newsletter (Efficient ML, Learning Rates, Detectron, Mobile) - [Link](http://digest.deeplearningweekly.com/issues/deep-learning-weekly-issue-72-efficient-ml-learning-rates-detectron-mobilenets-v2-deepleague-faster-r-cnns-and-more-92658)
 
-Here is the previous release (#3) of the NLP Newsletter (Emotional Chatbot, Detectron, Deep Learning Course, Google Free GPU, …) - [Link](https://medium.com/dair-ai/emotional-chatbot-detectron-deep-learning-course-google-free-gpu-8fc7867e6f1c)  
-![alt txt]()
+Here is the previous release (#3) of the NLP Newsletter (Emotional Chatbot, Google Colab, Detectron, Deep Learning Course, Google Free GPU, …) - [Link](https://medium.com/dair-ai/emotional-chatbot-detectron-deep-learning-course-google-free-gpu-8fc7867e6f1c)  
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue4/colab-gpu.gif)
 
 ---
 **Update:** Last week’s newsletter reached over 500 people; we hope you love this one too!  
