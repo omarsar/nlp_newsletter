@@ -2,7 +2,7 @@
 **On People…**  
 Debate among two leading researchers, [Gary Marcus](https://twitter.com/GaryMarcus) and [Yann LeCun](https://twitter.com/ylecun), on whether AI needs more innate machinery - [Link](https://www.youtube.com/watch?v=vdWPQ6iAkT4&index=82&t=6s&list=WL)
 
-[Dan Jurafsky](https://twitter.com/jurafsky), discusses how to process the language of policing and answers “Does This Vehicle Belong to You?” - [Link](https://twitter.com/jurafsky)
+[Dan Jurafsky](https://twitter.com/jurafsky), discusses how to process the language of policing and answers “Does This Vehicle Belong to You?” - [Link](https://www.youtube.com/watch?v=l_H5VHnwjfE&t=578s&list=WL&index=81)
 
 **On Code and Data…**  
 FAIR releases PyTorch implementation of “Poincaré Embeddings for Learning Hierarchical Representations” - [Link](https://github.com/facebookresearch/poincare-embeddings)  
@@ -10,7 +10,7 @@ FAIR releases PyTorch implementation of “Poincaré Embeddings for Learning Hie
 
 An interesting podcast discussing NLP highlights and the state-of-the-art techniques. In this episode, [Dan Roth](https://twitter.com/dannydanr) discusses strategies on how to deal with cases where data is lacking - [Link](https://soundcloud.com/nlp-highlights/48-incidental-supervision-moving-beyond-supervised-learning-with-dan-roth)
 
-Tutorial on how to use Mechanical Turk for tagging your training datasets - [Link](https://towardsdatascience.com/training-and-visualising-word-vectors-2f946c6430f8)
+Tutorial on how to use Mechanical Turk for tagging your training datasets - [Link](https://monkeylearn.com/blog/mechanical-turk-101-use-mturk-tagging-training-data/)
 
 Introducing the “Broad Twitter Corpus”, which is a dataset containing tweets collected over stratified times, places and social uses - [Link](https://github.com/GateNLP/broad_twitter_corpus)
 
