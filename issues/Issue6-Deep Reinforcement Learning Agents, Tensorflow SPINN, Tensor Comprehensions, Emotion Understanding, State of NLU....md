@@ -3,7 +3,7 @@
 Want to learn to ship neural network on iOS using PyTorch? See more here - [Link](https://attardi.org/pytorch-and-coreml)
 
 Nando de Freitas discusses the need for taking emotion and sentiment studies more seriously - [Link](https://twitter.com/NandoDF/status/962377568858058757)  
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue6/emotion.png)
 
 (Slides - Stanford) The state of Natural Language Understanding - [Link](http://sivareddy.in/papers/talks/siva-nlu-rework18.pdf?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=NLP%20News)
 
@@ -13,7 +13,7 @@ Nando de Freitas discusses the need for taking emotion and sentiment studies mor
 Tensorflow introduces SPINN, a tool that enables natural language understanding in Tensorflow with eager execution - [Link](https://github.com/tensorflow/tensorflow/tree/master/third_party/examples/eager/spinn)  
 
 An introduction to exploratory analysis for performing text mining tasks - [Link](https://rpubs.com/moeensaiket/359634)  
-![alt txt]
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue6/twitter.png)
 
 **On Education and Research…**  
 A tutorial on "Introduction to learning to trade with reinforcement learning" - [Link](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)  
@@ -26,7 +26,7 @@ A list of must-watch resources for learning to become an expert in NLP - [Link](
 
 **On Industry…**  
 Facebook AI Research (FAIR) release "Tensor Comprehensions", which is a library that aims to bridge gap between researchers and engineers who work together in ML research and implementations - [Link](https://research.fb.com/announcing-tensor-comprehensions/)  
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue6/tc_evol_slower.gif)
 
 "The nlp algorithm to blame for Google Translator becoming a sexist" - [Link](https://www.forbes.com/sites/parmyolson/2018/02/15/the-algorithm-that-helped-google-translate-become-sexist/#7643e2747daa)
 

@@ -16,7 +16,7 @@ Get the latest NLP news right inside your favorite community - GitHub! To subscr
 
 Want to become an editor? Reach me out directly on [Twitter](https://twitter.com/omarsar0) or leave an issue [here](https://github.com/omarsar/nlp_newsletter/issues/new).
 
-### Issues
+### Past Issues
 ---
 - Issue #1 [NLP Legend dies, Facebook’s wav2letter, Tensorflow for Deep Learning Research …](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue-1-NLP-Legend-dies-Facebooks-wav2letter-Tensorflow-for-Deep-Learning-Research.md) - *January 12, 2018*
 - Issue #2 [Best of NLP research, Bipolar Detection, OpenAI’s faster neural networks, Sarcastobot, …](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue-2-Best-of-NLP-research-Bipolar-Detection-OpenAIs-faster-neural-networks-Sarcastobot.md) - *January 19, 2018*
@@ -25,3 +25,5 @@ Want to become an editor? Reach me out directly on [Twitter](https://twitter.com
 - Issue #4 [Sequence Models course, Gary Marcus vs Yann LeCun, Deep Learning Matrix Calculus, Tensorflow Capsules …](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue-4-Sequence-Models-course-Gary-Marcus-vs-Yann-LeCun-Deep-Learning-Matrix-Calculus-Tensorflow-Capsules.md) - *February 2, 2018*
 
 - Issue #5 [Nested LSTMs, Tensorflow Minigo, AAAI 2018 notes, Extract! 4.0, Arxiv Vanity](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue-5-Nested-LSTMs-Tensorflow-Minigo-AAAI-2018-notes-Extract-4.0-Arxiv-Vanity.md) - *February 9, 2018*
+
+- Issue #6 [Deep Reinforcement Learning Agents, Tensorflow SPINN, Tensor Comprehensions, Emotion Understanding, State of NLU...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue6-Deep%20Reinforcement%20Learning%20Agents%2C%20Tensorflow%20SPINN%2C%20Tensor%20Comprehensions%2C%20Emotion%20Understanding%2C%20State%20of%20NLU....md) - *February 16, 2018*
