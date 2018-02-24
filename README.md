@@ -27,3 +27,5 @@ Want to become an editor? Reach me out directly on [Twitter](https://twitter.com
 - Issue #5 [Nested LSTMs, Tensorflow Minigo, AAAI 2018 notes, Extract! 4.0, Arxiv Vanity](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue-5-Nested-LSTMs-Tensorflow-Minigo-AAAI-2018-notes-Extract-4.0-Arxiv-Vanity.md) - *February 9, 2018*
 
 - Issue #6 [Deep Reinforcement Learning Agents, Tensorflow SPINN, Tensor Comprehensions, Emotion Understanding, State of NLU...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue6-Deep%20Reinforcement%20Learning%20Agents%2C%20Tensorflow%20SPINN%2C%20Tensor%20Comprehensions%2C%20Emotion%20Understanding%2C%20State%20of%20NLU....md) - *February 16, 2018*
+
+- Issue #7 [Deep Voice 3, GANfather, Test Tube, Sound and Meaning, Proven Beauty, Word Embeddings in 157 Languages,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue7-deepvoice-ganfather-testtube.md) - *February 25, 2018*
