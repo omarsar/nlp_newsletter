@@ -29,12 +29,12 @@ JupyterLab is released and ready for mass user adoption - [Link](https://blog.ju
 Code repository for Paradigms of Artificial Intelligence Programming (by Peter Norvig) - [Link](https://github.com/norvig/paip-lisp)
 
 **On Industry…**  
-Novel antiobitc recipes could be hidden in medieval medical text - [Link](http://blogs.discovermagazine.com/crux/2017/04/25/antibiotics-medieval-texts/#.Wpnfsahua72)
+Novel antibiotic recipes could be hidden in medieval medical text - [Link](http://blogs.discovermagazine.com/crux/2017/04/25/antibiotics-medieval-texts/#.Wpnfsahua72)
 
 Automated psychotherapy bot, Woebot, raises $8 million round of series A funding - [Link](https://venturebeat.com/2018/03/01/woebot-raises-8-million-for-its-ai-therapist/)
 
 **Worthy Mentions…**  
-Github survived the largest DDoS attack ever recorded - [Link](https://www.wired.com/story/github-ddos-memcached)
+GitHub survived the largest DDoS attack ever recorded - [Link](https://www.wired.com/story/github-ddos-memcached)
 
 Allen Institute for AI to pursue common sense for AI via Project Alexandria- [Link](https://www.paulallen.com/ai-common-sense-project-alexandria/)
 
