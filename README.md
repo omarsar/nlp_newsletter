@@ -31,3 +31,5 @@ Want to become an editor? Reach me out directly on [Twitter](https://twitter.com
 - Issue #7 [Deep Voice 3, GANfather, Test Tube, Sound and Meaning, Proven Beauty, Word Embeddings in 157 Languages,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue7-deepvoice-ganfather-testtube.md) - *February 25, 2018*
 
 - Issue #8 [Woebot raises 8 million, Tensorflow 1.6, Project Alexandria, Google ML course, Deep learning notations,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue8.md) - *March 3, 2018*
+
+- Issue #9 [Tensorflow.js, code2vec, DL-Text, Text-Distance, Group Normalization, Linguamatics,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue9.md) - *April 2, 2018*
