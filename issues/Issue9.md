@@ -3,7 +3,8 @@
 **On People…**  
 This comprehensive report details the current state of nerual machine translation (NMT) - [Link](https://slator.com/whitepapers/slator-neural-machine-translation-report-2018/)
 
-In this interesting Twitter thread [Sebastian Ruder](https://twitter.com/seb_ruder) discusses important questions about NLP progress and how it compared to computer vision (CV) - [Link](https://twitter.com/seb_ruder/status/980030523660791809)
+In this interesting Twitter thread [Sebastian Ruder](https://twitter.com/seb_ruder) discusses important questions about NLP progress and how it compared to computer vision (CV) - [Link](https://twitter.com/seb_ruder/status/980030523660791809)  
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue9/sebastian.png)
 
 How Ashton Kutcher and company plans to use NLP for fighting child sex trafficking - [Link](http://aplus.com/a/ashton-kutcher-child-sex-trafficking-thorn-48-hours?rel=homepage)
 
@@ -11,7 +12,7 @@ A Telegram channel to discuss NLP research, papers, and ideas about NLP - [Link]
 
 **On Education and Research…**  
 Paper introduces concept of "Group Normalization" an effective alternative to batch normalization, an important technique in deep learning - [Link](https://arxiv.org/pdf/1803.08494.pdf)  
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue9/normalization.png)
 
 Washington University (in St. Louis) Course T81-558: Applications of Deep Neural Networks (includes Jupyter notebooks as well) - [Link](https://github.com/jeffheaton/t81_558_deep_learning)
 
@@ -20,7 +21,7 @@ An interesting paper that introduces a model for representing snippets of code a
 This paper shows a comparison between recurrent vs. non-recurrent models for several NLP tasks - [Link](https://arxiv.org/abs/1803.03585)
 
 Article from Georgia Tech on "Learning to represent words by how they're spelled" - [Link](https://mlatgt.blog/2018/03/18/learning-to-represent-words-by-how-theyre-spelled/)  
-![alt txt]
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue9/words.png)
 
 Paper introduces a "new language modeling paradigm that has the ability to perform both prediction and moderation of information flow at multiple granularities" - [Link](https://arxiv.org/abs/1803.05071)
 
@@ -31,7 +32,8 @@ DL-Text repository containing code on how to pre-process textual data for deep l
 
 Repository containing many hand-on tutorials about simple tasks used in NLP - [Link](https://github.com/hb20007/hands-on-nltk-tutorial)
 
-DataTurks offers several open datasets -- check them out - [Link](https://dataturks.com/projects/Trending)
+DataTurks offers several open datasets -- check them out - [Link](https://dataturks.com/projects/Trending)  
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue9/dataturks.png)
 
 **On Industry…**  
 Tensorflow anounces [Tensorflow.js](https://js.tensorflow.org/), a Web-GL accelerated, browser-based Javascript library for training and deploying ML models on the web; other announcements were made as well - [Link](https://www.tensorflow.org/dev-summit/)
