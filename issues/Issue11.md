@@ -50,10 +50,10 @@ I had to feature one of these here ;)
 
 **Visualizations of the Day**  
 AI Evolution  
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue11/aievolution.jpg)
 
 AlpahGo Zero Cheat Sheet - [Link](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)    
-![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue11/aievolution.jpg)
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue11/alphago.png)
 
 
 **Worthy Mentions…**  
