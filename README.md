@@ -33,3 +33,7 @@ Want to become an editor? Reach me out directly on [Twitter](https://twitter.com
 - Issue #8 [Woebot raises 8 million, Tensorflow 1.6, Project Alexandria, Google ML course, Deep learning notations,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue8.md) - *March 3, 2018*
 
 - Issue #9 [Tensorflow.js, code2vec, DL-Text, Text-Distance, Group Normalization, Linguamatics,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue9.md) - *April 2, 2018*
+
+- Issue #9 [TextQL, Colorless Green RNNs, ConvAI2, Machine Learning Yearning, Meta Learning Tutorial, Tinn, World Models,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/issue10.md) - *April 9, 2018*
+
+- Issue #10 [DeepSuperLearner, Spherical CNNs, Google Semantris, Debater Data, AlterEgo, Text-to-Images GANs, Hate Speech Detection,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue11.md) - *April 16, 2018*

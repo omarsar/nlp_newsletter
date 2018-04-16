@@ -1,7 +1,7 @@
 # DeepSuperLearner, Spherical CNNs, Google Semantris, Debater Data, AlterEgo, Text-to-Images GANs, Hate Speech Detection, ...
 --------
 **On People…**  
-A great roundup of the talk delivered by [Rachel Thomas](https://twitter.com/math_rachel) discussing the accessibility in AI at Standford - [Link](http://www.fast.ai/2018/04/10/stanford-salon/) 
+A great roundup of the talk delivered by [Rachel Thomas](https://twitter.com/math_rachel) discussing the accessibility in AI at Stanford - [Link](http://www.fast.ai/2018/04/10/stanford-salon/) 
 ![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue11/myths.jpg)  
 [Image credit](https://twitter.com/tessposner)
 
@@ -18,7 +18,7 @@ An interesting paper on generating images from scene graphs using graph convolut
 
 Another interesting research by AI2 on "Scripts to Compositions to Videos" - [Link](https://www.youtube.com/watch?v=688Vv86n0z8&feature=youtu.be)
 
-NLP research discusses the possiblity of predicting Twitter user socioeconomic attributes - [Link](https://arxiv.org/abs/1804.04095)
+NLP research discusses the possibility of predicting Twitter user socioeconomic attributes - [Link](https://arxiv.org/abs/1804.04095)
 
 Paper discusses a novel method for understanding online hate speech - [Link](https://arxiv.org/abs/1804.04257)  
 ![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue11/hatespeech.png)
@@ -38,7 +38,7 @@ Building convolutional neural nets (CNNs) in PyTorch - [Link](https://blog.algor
 
 Data scientist gives very useful tips on how to build a profile and prepare for the first data science job - [Link](https://www.kdnuggets.com/2018/04/first-data-science-job.html)
 
-AlterEgo transcribe words users "speak siltently"; could have major applications in NLP research - [Link](https://news.mit.edu/2018/computer-system-transcribes-words-users-speak-silently-0404) 
+AlterEgo transcribe words users "speak silently"; could have major applications in NLP research - [Link](https://news.mit.edu/2018/computer-system-transcribes-words-users-speak-silently-0404) 
 
 Google paper on "Exploring the limits of Language Modeling" - [Link](https://arxiv.org/pdf/1602.02410.pdf)
 
