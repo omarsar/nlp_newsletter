@@ -88,7 +88,7 @@ Why deep learning is perfect for NLP - [Link](https://www.kdnuggets.com/2018/04/
 Our previous newsletter (Issue 11) - [Link](https://medium.com/dair-ai/deepsuperlearner-spherical-cnns-google-semantris-debater-data-alterego-text-to-images-gans-2ba92eef9b9f)
 
 **Message from the Editor**  
-Hello boys and girls! Thanks for the massive support you have given to this newsletter. I realized the tremendous good it can do for experts in the field and those who are beginning. The previous newsletter did so well that I was quiet compelled by the number of people interested in such newsletter (3K+ views). I hope to keep bringing more of the best of NLP and ML research in the months to come. Also, come over to [@omarsar0](https://twitter.com/omarsar0) and say hi!
+Hello everyone! Thanks for the massive support you have given to this newsletter. I realized the tremendous good it can do for experts in the field and those who are beginning. The previous newsletter did so well that I got excited to see how much people were interested in such newsletter (3K+ views). I hope to keep bringing more of the best of NLP and ML news in the weeks that follow. Also, come over to [@omarsar0](https://twitter.com/omarsar0) and say hi!
 
 ----------
 *If you spot any errors or inaccuracies in this newsletter please open an issue.*  
