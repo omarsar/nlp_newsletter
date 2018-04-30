@@ -4,19 +4,19 @@
 
 **On People…**  
 A statement has been circulating for ML people to sign against "closed access or author-fee publication" (We definitely signed! Let's keep ML research open) - [Link](https://openaccess.engineering.oregonstate.edu/)  
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue12/ml.png)
 
 Are emojis ruining the way young people use the English language to communicate? - [Link](https://www.telegraph.co.uk/education/2018/04/17/emojis-ruining-english-language-young-people-rely-communicate/)
 
 Hands down one of the best AI essays of the year by Professor Michael Jordan (Artificial Intelligence — The Revolution Hasn’t Happened Yet) - [Link](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)
 
 Multilingual natural language understanding by Spacy (Video) - [Link](https://www.youtube.com/watch?feature=youtu.be&utm_campaign=Revue+newsletter&utm_medium=Newsletter&utm_source=NLP+News&v=jB1-NukGZm0)  
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue12/spacy.png)
 
 Why technical experts need to get better at telling stories - [Link](https://hbr.org/2018/04/technical-experts-need-to-get-better-at-telling-stories)
 
 Bias in word embeddings? (Google Research Blog) - [Link](https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html)  
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue12/bias.png)
 
 **On Education and Research…**  
 Paper revisiting on how to make better choices with batch training in neural networks - [Link](https://arxiv.org/abs/1804.07612)
@@ -24,12 +24,12 @@ Paper revisiting on how to make better choices with batch training in neural net
 Paper discussing when and why word emdeddings are good for neural machine translation - [Link](https://arxiv.org/abs/1804.06323)
 
 Olive Oil is Made of Olives, Baby Oil is Made for Babies (Paper Summary) - [Link](https://medium.com/dair-ai/olive-oil-is-made-of-olives-baby-oil-is-made-for-babies-paper-summary-a6f9b5544761)  
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue12/olive_baby.png)
 
 Paper discusses how to go about conducting evaluation on "Deep Semi-Supervised Learning Algorithms" - [Link](https://arxiv.org/abs/1804.09170)
 
 Using deep learning to detect linguistic cues of Alzheimer’s disease patients - [Link](https://medium.com/dair-ai/using-deep-learning-to-detect-linguistic-cues-of-alzheimers-patients-a606693e54f9)  
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue12/alzheimers_deep_learning.png)
 
 Summary of interesting NLP Papers and Research (Fast and easy reads!) - [Link](https://github.com/omarsar/nlp_research)
 
@@ -47,7 +47,7 @@ Executing gradient descent on Earth - [Link](https://fosterelli.co/executing-gra
 GANs in 50 lines of code with PyTorch - [Link](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 
 A guide to conducting sequence prediction (one of the hottest trends in deep learning) with Python - [Link](https://www.analyticsvidhya.com/blog/2018/04/guide-sequence-prediction-using-compact-prediction-tree-python/)  
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue12/sequences.png)
 
 Alphabetical list of NLP datasets - [Link](https://github.com/niderhoff/nlp-datasets)
 
@@ -66,12 +66,12 @@ Scientists plan huge European AI hub to compete with US - [Link](https://www.the
 "We see no role for closed access or author-fee publication in the future of machine learning research and believe the adoption of this new journal as an outlet of record for the machine learning community would be a retrograde step." ([@tdietterich](https://twitter.com/tdietterich))
 
 **Visualization of the Week**  
-![alt txt]()  
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue12/tensorflow.jpg)  
 "Sorry officer, my car has old version of TensorFlow, I'll update it tonight" - [Link](https://twitter.com/Reza_Zadeh)
 
 **Worthy Mentions…**  
 Implementing YOLO v3 with PyTorch - [Link](https://medium.com/paperspace/tutorial-on-implementing-yolo-v3-from-scratch-in-pytorch-part-1-a0054d38ec78)  
-![alt txt]()
+![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue12/yolo.png)
 
 NLP News by Sebastian Ruder (Issue 21) - [Link](http://newsletter.ruder.io/issues/nlp-pytorch-libraries-gan-tutorial-jupyter-tricks-tensorflow-things-representation-learning-making-nlp-more-accessible-michael-jordan-essay-reproducing-deep-rl-rakuten-data-challenge-naacl-outstanding-papers-106347)
 
