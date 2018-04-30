@@ -21,7 +21,7 @@ Bias in word embeddings? (Google Research Blog) - [Link](https://developers.goog
 **On Education and Research…**  
 Paper revisiting on how to make better choices with batch training in neural networks - [Link](https://arxiv.org/abs/1804.07612)
 
-Paper discussing when and why word emdeddings are good for neural machine translation - [Link](https://arxiv.org/abs/1804.06323)
+Paper discussing when and why word embeddings are good for neural machine translation - [Link](https://arxiv.org/abs/1804.06323)
 
 Olive Oil is Made of Olives, Baby Oil is Made for Babies (Paper Summary) - [Link](https://medium.com/dair-ai/olive-oil-is-made-of-olives-baby-oil-is-made-for-babies-paper-summary-a6f9b5544761)  
 ![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue12/olive_baby.png)
@@ -62,10 +62,10 @@ How NLP offers a bright future for airlines and passengers - [Link](https://www.
 
 Scientists plan huge European AI hub to compete with US - [Link](https://www.theguardian.com/science/2018/apr/23/scientists-plan-huge-european-ai-hub-to-compete-with-us)
 
-**Quote of the Week**  
+**Quote of the Week**...  
 "We see no role for closed access or author-fee publication in the future of machine learning research and believe the adoption of this new journal as an outlet of record for the machine learning community would be a retrograde step." ([@tdietterich](https://twitter.com/tdietterich))
 
-**Visualization of the Week**  
+**Visualization of the Week**...  
 ![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/images/issue12/tensorflow.jpg)  
 "Sorry officer, my car has old version of TensorFlow, I'll update it tonight" - [Link](https://twitter.com/Reza_Zadeh)
 
@@ -86,6 +86,9 @@ Why deep learning is perfect for NLP - [Link](https://www.kdnuggets.com/2018/04/
 5 Fantastic Practical Natural Language Processing Resources - [Link](https://www.kdnuggets.com/2018/02/5-fantastic-practical-natural-language-processing-resources.html)
 
 Our previous newsletter (Issue 11) - [Link](https://medium.com/dair-ai/deepsuperlearner-spherical-cnns-google-semantris-debater-data-alterego-text-to-images-gans-2ba92eef9b9f)
+
+**Message from the Editor**  
+Hello boys and girls! Thanks for the massive support you have given to this newsletter. I realized the tremendous good it can do for experts in the field and those who are beginning. The previous newsletter did so well that I was quiet compelled by the number of people interested in such newsletter (3K+ views). I hope to keep bringing more of the best of NLP and ML research in the months to come. Also, come over to [@omarsar0](https://twitter.com/omarsar0) and say hi!
 
 ----------
 *If you spot any errors or inaccuracies in this newsletter please open an issue.*  
