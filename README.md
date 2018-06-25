@@ -38,9 +38,17 @@ Want to become an editor? Reach me out directly on [Twitter](https://twitter.com
 
 - Issue #11 [DeepSuperLearner, Spherical CNNs, Google Semantris, Debater Data, AlterEgo, Text-to-Images GANs, Hate Speech Detection,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue11.md) - *April 16, 2018*
 
-- Issue #12 [PyTorch 0.4.0, Google Brain Tokyo, QuickNLP, Multilingual NLU, PeerRead dataset, PyTorch GAN, ML Openness, SGD Earth, DL for Alzheimer's Detection,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue12.md)
+- Issue #12 [PyTorch 0.4.0, Google Brain Tokyo, QuickNLP, Multilingual NLU, PeerRead dataset, PyTorch GAN, ML Openness, SGD Earth, DL for Alzheimer's Detection,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue12.md) - *May 14, 2018*
 
 
-- Issue #13 [Einsum, Magenta.js, ML Debiasing, Tensorflow 1.8.0, The Gradient, MLPerf, Sarcasm Detection, Fast.ai loves PyTorch, Word Morphing,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue13.md)
+- Issue #13 [Einsum, Magenta.js, ML Debiasing, Tensorflow 1.8.0, The Gradient, MLPerf, Sarcasm Detection, Fast.ai loves PyTorch, Word Morphing,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue13.md) - *May 21, 2018*
 
-- Issue # 14 [Google Duplex, Sense Embeddings, hyperdoc2vec, CoDraw, Keras CPPN, TFLite, Resume Classification,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue14-Google-Duplex-Sense-Embeddings-hyperdoc2vec-CoDraw-Keras-CPPN-TFLite-Resume-Classification.md)
+- Issue #14 [Google Duplex, Sense Embeddings, hyperdoc2vec, CoDraw, Keras CPPN, TFLite, Resume Classification,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue14-Google-Duplex-Sense-Embeddings-hyperdoc2vec-CoDraw-Keras-CPPN-TFLite-Resume-Classification.md) - *May 28, 2018*
+
+- Issue #15 [Polysemy Embeddings, Semi Adversarial Networks, ULMFiT, Color Naming, Sentiment Style Transfer,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2015-Polysemy-Embeddings-Semi-Adversarial-Networks-ULMFiT-Color-Naming-Sentiment-Style-Transfer.md) - *June 4, 2018*
+
+- Issue #16 [Hyperbolic Attention Networks, Whistle to Music, Graph2Seq, Netflix Research, Intel NLP Tools,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2016%20-%20Hyperbolic-Attention-Networks-Whistle-to-Music-Graph2Seq-Netflix-Research-Intel-NLP-Tools.md) - *June 11, 2018*
+
+- Issue #17 [ELMo, GLoMo, FloydHub Workspaces, AI Principles, NCRF++, TorchFold, AI Talent Report,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2017%20-%20ELMo-GLoMo-FloydHub-Workspaces-AI-Principles-NCRF-TorchFold-AI-Talent-Report.md) - *June 18, 2018*
+
+- Issue #18 [Song Lyric Toxicity, Commit Assistant, NLP Progress, DensePose, PyTorch Geometric,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2018%20-%20Song-Toxicity-Commit-Assistant-NLP-Progress-DensePose-PyTorch-Geometric.md) - *June 25, 2018*
