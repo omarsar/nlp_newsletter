@@ -39,3 +39,8 @@ Want to become an editor? Reach me out directly on [Twitter](https://twitter.com
 - Issue #11 [DeepSuperLearner, Spherical CNNs, Google Semantris, Debater Data, AlterEgo, Text-to-Images GANs, Hate Speech Detection,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue11.md) - *April 16, 2018*
 
 - Issue #12 [PyTorch 0.4.0, Google Brain Tokyo, QuickNLP, Multilingual NLU, PeerRead dataset, PyTorch GAN, ML Openness, SGD Earth, DL for Alzheimer's Detection,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue12.md)
+
+
+- Issue #13 [Einsum, Magenta.js, ML Debiasing, Tensorflow 1.8.0, The Gradient, MLPerf, Sarcasm Detection, Fast.ai loves PyTorch, Word Morphing,...](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue13.md)
+
+- Issue # 14 [Google Duplex, Sense Embeddings, hyperdoc2vec, CoDraw, Keras CPPN, TFLite, Resume Classification,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue14-Google-Duplex-Sense-Embeddings-hyperdoc2vec-CoDraw-Keras-CPPN-TFLite-Resume-Classification.md)
