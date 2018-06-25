@@ -1,4 +1,5 @@
 # ELMo, GLoMo, FloydHub Workspaces, AI Principles, NCRF++, TorchFold, AI Talent Report,…
+---
 *Welcome to the 17th Issue of the NLP Newsletter! Here is this week’s notable NLP news: Deep contextualized representations (ELMo), new IDE for deep learning, AI Talent Report 2018, Google’s AI principles, graph-based representations for transfer learning, boosting Python-based, NLP modules, and much more…*
 
 **On People…**
@@ -54,7 +55,7 @@ Here is a nice dataset which contains short jokes scraped from various websites 
 
 Learn how to speed up your Python NLP modules by 50-100 times faster - [Link](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)
 
-**On Industry…**
+**On Industry…**  
 Google proposes its new AI principles and practices - [Link](https://blog.google/topics/ai/ai-principles/)
 
 Introducing FloydHub Workspaces - a new cloud IDE for deep learning - [Link](https://blog.floydhub.com/workspaces/)
@@ -67,7 +68,7 @@ Leveraging latent relational graph-based representation (GLoMo) for enabling tra
 
 A reinforcement learning environment for self-driving cars built on the browser using Tensorflow.js - [Link](https://www.metacar-project.com/)
 
-**Worthy Mentions…**
+**Worthy Mentions…**  
 Slides by Adrej Karpathy, on building the software 2.0 stack and what a machine learning IDE should contain - [Link](https://www.figure-eight.com/building-the-software-2-0-stack-by-andrej-karpathy-from-tesla/)
 
 A comprehensive review of deep learning for objection detection - [Link](https://medium.com/@joycex99/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)

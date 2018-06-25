@@ -1,7 +1,9 @@
-# Polysemy Embeddings, Semi Adversarial Networks, ULMFiT, Color Naming, Sentiment Style Transfer,…
-*Welcome to the 1**5**th Issue of the NLP Newsletter! Here is this week’s notable NLP news!*
+# Polysemy Embeddings, Semi Adversarial Networks, ULMFiT, Color Naming, Sentiment Style Transfer,…  
 
-**On People…**
+---
+*Welcome to the 15th Issue of the NLP Newsletter! Here is this week’s notable NLP news!*
+
+**On People…**  
 Judea Pearl, AI pioneer, gives his advice on how we should move AI forward - [Link](https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/)
 
 Meet the new Kaggle grand-master - [Link](http://blog.kaggle.com/2018/05/07/profiling-top-kagglers-bestfitting-currently-1-in-the-world/)
@@ -18,7 +20,7 @@ A simple approach to sentiment and style transfer - [Link](https://nlp.stanford.
 
 Can a CNN learn when to reject and accept papers? - [Link](https://arxiv.org/abs/1805.03977)
 
-**On Education and Research…**
+**On Education and Research…**  
 Introducing ULMFiT a universal language model for fine-tuning through transfer learning (useful for many NLP tasks) - [Link](https://arxiv.org/abs/1801.06146)
 
 Word Embeddings to Polysemy Embedding - [Link](https://medium.com/@jegasingamjeyanthasingam/word-embedding-to-polysemy-embedding-17274ab98418)
@@ -37,14 +39,14 @@ Modeling semantics with graph neural networks, which help to build a knowledge-b
 
 Deep Learning Winter course by Andrej Karpathy - [Link](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 
-**On Code and Data…**
+**On Code and Data…**  
 PyTorch implementation of a Semi Adversarial Network - [Link](https://github.com/iPRoBe-lab/semi-adversarial-networks)
 
 Computing derivatives with PyTorch - [Link](https://www.kdnuggets.com/2018/05/simple-derivatives-pytorch.html)
 
 Part of Speech tagging with LSTMs - [Link](https://medium.com/@actsusanli/part-of-speech-tagging-with-hidden-markov-chain-models-e9fccc835c0e)
 
-**On Industry…**
+**On Industry…**  
 I doubt this is possible 😇 , nevertheless, here is DeepMind’s shot at understanding how the brain thinks - [Link](http://www.wired.co.uk/article/deepmind-newest-network-mimics-the-gps-cells-in-your-brain)
 
 ![](https://wi-images.condecdn.net/image/Bw2QJ4GO1Ap/crop/405/f/artificial-vs-biological-static.jpg)
@@ -57,7 +59,7 @@ How Google researchers plan to advance the study of Semantic Textual Similarity 
 ![](https://1.bp.blogspot.com/-w2kAi39zPrE/Wv2OPHTwDgI/AAAAAAAACvY/aQzvBcaIqYkw8McCBcXlTx0pj9FbILH0ACLcBGAs/s400/image4.png)
 
 
-**Quotes of the day…**
+**Quotes of the day…**  
 A potential useful way to detect spelling errors using word embeddings - [Link](https://twitter.com/jeremyphoward/status/997264148655259648)
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_F93DD2EAE23420B0087AE8ACE91365C73F261E1B40F0C865807FA38F51CCC287_1526898790115_file.png)
@@ -68,14 +70,14 @@ Interesting point of view by Denny Britz - [Link](https://twitter.com/dennybritz
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_F93DD2EAE23420B0087AE8ACE91365C73F261E1B40F0C865807FA38F51CCC287_1526899181684_file.png)
 
 
-**Illustrations of the day…**
+**Illustrations of the day…**  
 Learn more about BLEU and meaning representation in this upcoming new paper - [Link](https://arxiv.org/pdf/1805.06536.pdf)
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_F93DD2EAE23420B0087AE8ACE91365C73F261E1B40F0C865807FA38F51CCC287_1526899458848_file.png)
 
 
 
-**Worthy Mentions…**
+**Worthy Mentions…**  
 Demystifying Generative Adversarial Networks - [Link](https://towardsdatascience.com/demystifying-generative-adversarial-networks-c076d8db8f44)
 
 Solving detection of fake news through AI and NLP - [Link](https://www.irishtimes.com/business/technology/ai-is-learning-how-to-trump-purveyors-of-fake-news-1.3489139)
