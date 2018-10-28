@@ -52,3 +52,29 @@ Want to become an editor? Reach me out directly on [Twitter](https://twitter.com
 - Issue #17 [ELMo, GLoMo, FloydHub Workspaces, AI Principles, NCRF++, TorchFold, AI Talent Report,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2017%20-%20ELMo-GLoMo-FloydHub-Workspaces-AI-Principles-NCRF-TorchFold-AI-Talent-Report.md) - *June 18, 2018*
 
 - Issue #18 [Song Lyric Toxicity, Commit Assistant, NLP Progress, DensePose, PyTorch Geometric,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2018%20-%20Song-Toxicity-Commit-Assistant-NLP-Progress-DensePose-PyTorch-Geometric.md) - *June 25, 2018*
+
+- Issue #19 [Libratus, OpenAI Five, Common Sense AI, ARNN, Positive AI, WaveNet Stack, DARTS, ROAR,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2019-Libratus-OpenAI-Five-Common-Sense-AI-ARNN-Positive-AI-WaveNet-Stack-DARTS-ROAR.md) - *July 2, 2018*
+
+- Issue #20 [Grokking Deep Learning, Something-Something V2, Tensorflow 1.9, NLP ImageNet Moment, Feature-Wise Transformations,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2020-Grokking-Deep-Learning-Something-Something-V2-Tensorflow-1.9-NLP-ImageNet-Moment-Feature-Wise-Transformations.md) - *July 14, 2018*
+
+- Issue #21 [AREL, TextWorld, eCommerce Chatbot, Bloomberg and BAIR AI Courses, Troubling Trends in ML, ICML 2018 Notes, NLP and Law,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2021-AREL-TextWorld-eCommerce-Chatbot-Bloomberg-and-BAIR-AI-Courses-Troubling-Trends-in-ML-ICML-2018-Notes-NLP-and-Law.md) - *July 16, 2018*
+
+- Issue #22 [TensorboardX, NLP Best Practices, Cirq, Subjectivity in AI, MojiTalk, Seq-to-Seq Debugging, Data Portability,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2022-TensorboardX-NLP-Best-Practices-Cirq-Subjectivity-in-AI-MojiTalk-Seq-to-Seq-Debugging-Data-Portability.md) - *July 23, 2018*
+
+- Issue #23 [decaNLP, GluonNLP, al+ stack, Pythia, Data for Good, Differentiable Image Parameterizations,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2023-decaNLP-GluonNLP-al-stack-Pythia-Data-for-Good-Differentiable-Image-Parameterizations.md) - *July 31, 2018*
+
+- Issue #24 [Manubot, NALU, GluonCV, ml5.js, doc.ai, OpenAI Benchmark, Deep-Speare, Cyberbullying Detection,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2024-Manubot-NALU-GluonCV-ml5.js-doc.ai-OpenAI-Benchmark-Deep-Speare-Cyberbullying-Detection.md) - *August 6, 2018*
+
+- Issue #25 [Pictures to Poetry, Facebook teaches ML, TensorFlow 1.10.0, MnasNet, Bixby Speaker, AI in 2026,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2025-Pictures-to-Poetry-Facebook-teaches-ML-TensorFlow-1.10.0-MnasNet-Bixby-Speaker-AI-in-2026.md) - *August 13, 2018*
+
+- Issue #26 [SWAG Q/A Dataset, PolygonRNN++, Deep Learning in NLP, Diagnosing Retinal Disease, Pix2Pix on the Browser, AutoKeras,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2026-SWAG-QA-Dataset-PolygonRNN-Deep-Learning-in-NLP-Diagnosing-Retinal-Disease-Pix2Pix-on-the-Browser-AutoKeras.md)- *August 20, 2018*
+
+- Issue #27 [Deep INFOMAX, Image to Image Translation, FEVER, Perception Engines, QuAC, Best 150 ML Tutorials,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2027-Deep-INFOMAX-Image-to-Image-Translation-FEVER-Perception-Engines-QuAC-Best-150-ML-Tutorials.md) - *August 27, 2018*
+
+- Issue #28 [Google AI Dopamine, GLUE, TransmogrifAI, Machine Learning for Health Care, NLP Interpretability, Probabilistic Thinking,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2028-Google-AI-Dopamine-GLUE-TransmogrifAI-Machine-Learning-for-Health-Care-NLP-Interpretability-Probabilistic-Thinking.md) - *September 4, 2018*
+
+- Issue #29 [MLaaS, DON, The Joy of AI, Jupytext, AI Next, MTNT, GAN Lab, What-If Tool, Dataset Search,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2029-MLaaS-DON-The-Joy-of-AI-Jupytext-AI-Next-MTNT-GAN-Lab-What-If-Tool-Dataset-Search.md) - *September 12, 2018*
+
+- Issue #30 [Facebook’s SapFix, Improvisational Comedy, Textual Analogy Parsing, Ethical ML, Sound Search, GANs and Art,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2030-Facebooks-SapFix-Improvisational-Comedy-Textual-Analogy-Parsing-Ethical-ML-Sound-Search-GANs-and-Art.md) - *September 17, 2018*
+
+- Issue #31 [Sotawhat, Dynamic Meta-Embeddings, Journal, Fairness in ML Course, GraphNets, NLP Overview Paper, Medical Torch,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2031-Sotawhat-Dynamic-Meta-Embeddings-Journal-Fairness-in-ML-Course-GraphNets-NLP-Overview-Paper-Medical-Torch.md) - *October 22, 2018*
