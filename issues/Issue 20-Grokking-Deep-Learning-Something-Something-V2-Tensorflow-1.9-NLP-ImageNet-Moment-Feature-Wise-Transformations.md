@@ -5,7 +5,7 @@
 
 *Welcome to the 20th Issue of the NLP Newsletter! Here is this week’s notable NLP and AI news! Today we have book releases, AI safety and ethics, tons of large-scale datasets, overview of imitation learning, research tutorials, calls for research, and much more.*
 
-**On People and Society…**
+**On People and Society…**   
 [Andrew Trask](https://twitter.com/iamtrask) releases his new book 📘 entitled “Grokking Deep Learning” where he aims to teach deep learning and related mathematical concepts in a more intuitive way using Numpy (notebooks included) — [Link](https://www.manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258)
 
 [Elvis Saravia](https://twitter.com/omarsar0) discusses the challenges of AI communication by reviewing the current technologies and strategies used to communicate science-related topics — [Link](https://medium.com/dair-ai/the-challenges-of-ai-communication-37a0173b5927)
@@ -22,7 +22,7 @@ NLP is already being used for clinical documentation, but what are the safety co
 
 Timely and interesting TED talk by Dirk Hovy on why computers are still struggling to understand us (video) — [Link](https://www.youtube.com/watch?v=e6ggFdqsyEg)
 
-**On Education and Research…**
+**On Education and Research…**   
 Check out this impressive list of tutorials on some of the most outstanding ML research of the past few years, such as DeepStack, InfoGAN, and AlphaGo Zero (highly recommended) — [Link](http://www.depthfirstlearning.com/)
 
 [Zaid Alyafeai](https://twitter.com/zaidalyafeai) teaches how to build Keras models and migrate them to the browser in this very easy to read article — [Link](https://medium.com/tensorflow/train-on-google-colab-and-run-on-the-browser-a-case-study-8a45f9b1474e?linkId=53959139)
@@ -37,7 +37,7 @@ Conference season is still around! Learn how to make the most out of your confer
 
 New research proposes variational attention networks for retaining performance gains on machine translation and visual question answering tasks while boosting computational speed — [Link](https://arxiv.org/abs/1807.03756v1)
 
-**On Code and Data…**
+**On Code and Data…**   
 The results are out for the “Implicit Emotion Recognition Task” — [Link](http://implicitemotions.wassa2018.com/results/)
 
 Want a dataset which you can use to teach machines common sense? TwentyBN has just released a massive video dataset (Something-Something V2) to help enable systems to have the ability of video understanding and visual common sense — [Link](https://medium.com/twentybn/something-something-v2-release-9107b4a8ce99)
@@ -48,7 +48,7 @@ PyTorch implementation of how to learn distributed sentence representations �
 
 FAIR releases dataset which can be useful to train AI Agents to teach other visual navigation — [Link](https://www.facebook.com/722677142/posts/10155391157417143/)
 
-**On Industry…**
+**On Industry…**   
 Facebook is calling for proposals to help build systems that can understand and detect misinformation on WhatsApp — [Link](https://research.fb.com/programs/research-awards/proposals/whatsapp-research-awards-for-social-science-and-misinformation/)
 
 Learn about how NLP can be used to leverage and unlock the unstructured healthcare datasets — [Link](https://www.prnewswire.com/news-releases/natural-language-processing-technology-poised-to-unlock-the-value-of-extensive-unstructured-healthcare-data-sets-300679630.html)
@@ -59,7 +59,7 @@ Learn about how Passage AI is using NLP and deep learning, specifically bi-LSTMs
 
 Tensorflow 1.9 has just been released, which includes an excellent starting guide on how to use tf.keras and eager execution — [Link](https://www.tensorflow.org/tutorials/)
 
-**Worthy Mentions…**
+**Worthy Mentions…**   
 How to conduct socially responsible NLP research — [Link](https://docs.google.com/presentation/d/1HkKDbpph3RP9s3hdTEQ8rjy8PZDx4tSTW6hZily_yIc/edit?ts=5b438196#slide=id.p)
 
 Bi-weekly NLP Newsletter by Sebastian Ruder — [Link](http://newsletter.ruder.io/issues/rl-and-teamwork-tracking-the-state-of-ai-facebook-and-fake-news-doing-research-conference-things-120440)
@@ -70,7 +70,7 @@ DeepMind’s new paper discusses how to measure abstract reasoning in neural net
 
 Check out these slides if you want to learn more about emojis and how NLP can be used to understand them in the context of social media text — [Link](https://www.slideshare.net/knoesis/using-natural-language-processing-to-understand-emoji-in-social-media-text-105027875)
 
-**Calls for Research…**
+**Calls for Research…**   
 Ever wondered why Donald Trump and others use uppercase letters a lot on Twitter as reported [here](https://www.nytimes.com/2018/07/04/us/trump-capitalization-tweets-nyt.html)? I believe this can make a for an interesting NLP study, where we can analyze several accounts on Twitter and look for some linguistic patterns that can give us more clues to understand and explain this phenomenon. [Steven Pinker](https://twitter.com/sapinker) thinks capitalization is used to express irony but I believe it has to do with expressing emotion intensity and persuasion as well.
 
 ----------
