@@ -78,3 +78,5 @@ Want to become an editor? Reach me out directly on [Twitter](https://twitter.com
 - Issue #30 [Facebook’s SapFix, Improvisational Comedy, Textual Analogy Parsing, Ethical ML, Sound Search, GANs and Art,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2030-Facebooks-SapFix-Improvisational-Comedy-Textual-Analogy-Parsing-Ethical-ML-Sound-Search-GANs-and-Art.md) - *September 17, 2018*
 
 - Issue #31 [Sotawhat, Dynamic Meta-Embeddings, Journal, Fairness in ML Course, GraphNets, NLP Overview Paper, Medical Torch,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2031-Sotawhat-Dynamic-Meta-Embeddings-Journal-Fairness-in-ML-Course-GraphNets-NLP-Overview-Paper-Medical-Torch.md) - *October 22, 2018*
+
+- Issue #32 [NLP-Overview, Facebook’s XNLI, ShaRC, AutoAugment, pair2vec, Iterated Amplification,…](https://github.com/omarsar/nlp_newsletter/blob/master/issues/Issue%2032-NLP-Overview-Facebooks-XNLI-ShaRC-AutoAugment-pair2vec-Iterated-Amplification.md) - *October 29, 2018*
