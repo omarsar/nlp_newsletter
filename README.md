@@ -1,7 +1,8 @@
-![alt txt](https://github.com/omarsar/nlp_newsletter/blob/master/resources/nlp_cover.png)
-
 ### NLP Newsletter
 ---
+
+Note: The new NLP Newsletter now lives [here](https://github.com/dair-ai/nlp_newsletter)
+
 The NLP Newsletter provides a weekly issue that curates the most important natural language processing (NLP) news coming from both the industry and academia.
 
 ### Subscribe
